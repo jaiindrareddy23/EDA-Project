@@ -31,7 +31,8 @@ data/: Contains sample data or links to the data source.
 notebooks/: Jupyter notebooks with step-by-step EDA and model development.
 src/: Python scripts for data processing, model building, and evaluation.
 README.md: Overview, setup instructions, and project details.
-How to Run
+
+How to Run:
 Install Dependencies: Ensure Python, Spark, and all libraries in requirements.txt are installed.
 Data Preparation: Download the dataset and place it in the data/ folder.
 Run Notebooks: Start with EDA, then proceed to model building and prediction.
